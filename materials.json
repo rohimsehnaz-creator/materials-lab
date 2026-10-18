@@ -22,5 +22,13 @@
     "thumb": "green-screen-lyrics-03.png",
     "file": "green-screen-lyrics-03.mp4",
     "published": true
+  },
+  {
+    "title": "Black Bars 01",
+    "description": "Cinematic black bars overlay for your edits.",
+    "category": "Black Bars",
+    "thumb": "black-bars-01.png",
+    "file": "black-bars-01.mp4",
+    "published": true
   }
 ]
