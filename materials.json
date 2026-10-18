@@ -30,5 +30,37 @@
     "thumb": "black-bars-01.png",
     "file": "black-bars-01.mp4",
     "published": true
+  },
+  {
+    "title": "Max Level Loading",
+    "description": "Loading circle green screen for gaming edits.",
+    "category": "Green Screen",
+    "thumb": "max-level.jpg",
+    "file": "max-level.mp4",
+    "published": true
+  },
+  {
+    "title": "Mission Passed",
+    "description": "Mission passed green screen for reels.",
+    "category": "Green Screen",
+    "thumb": "mission-passed.jpg",
+    "file": "mission-passed.mp4",
+    "published": true
+  },
+  {
+    "title": "Subscribe Button",
+    "description": "Like, subscribe and bell animation green screen.",
+    "category": "Green Screen",
+    "thumb": "subscribe-button.jpg",
+    "file": "subscribe-button.mp4",
+    "published": true
+  },
+  {
+    "title": "Fire Explosion Smoke",
+    "description": "Realistic blast and smoke VFX on green screen.",
+    "category": "Green Screen",
+    "thumb": "fire-explosion.jpg",
+    "file": "fire-explosion.mp4",
+    "published": true
   }
 ]
