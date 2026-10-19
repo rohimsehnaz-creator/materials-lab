@@ -70,5 +70,13 @@
     "thumb": "fire-explosion.jpg",
     "file": "fire-explosion.mp4",
     "published": true
+  },
+  {
+    "title": "Star Overlay",
+    "description": "Sparkling star overlay green screen for your edits.",
+    "category": "Green Screen",
+    "thumb": "star-overlay.png",
+    "file": "star-overlay.mp4",
+    "published": true
   }
 ]
