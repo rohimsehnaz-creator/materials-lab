@@ -32,6 +32,14 @@
     "published": true
   },
   {
+    "title": "Green Screen Lyrics 05",
+    "description": "Green screen lyrics overlay for your edits.",
+    "category": "Lyrics Overlays",
+    "thumb": "green-screen-lyrics-05.png",
+    "file": "green-screen-lyrics-05.mp4",
+    "published": true
+  },
+  {
     "title": "Black Bars 01",
     "description": "Cinematic black bars overlay for your edits.",
     "category": "Black Bars",
@@ -77,14 +85,6 @@
     "category": "Green Screen",
     "thumb": "star-overlay.jpg",
     "file": "star-overlay.mp4",
-    "published": true
-  },
-{
-    "title": "Green Screen Lyrics 05",
-    "description": "Green screen lyrics overlay for your edits.",
-    "category": "Lyrics overlays",
-    "thumb": "green-screen-lyrics-05.png",
-    "file": "green-screen-lyrics-05.mp4",
     "published": true
   }
 ]
